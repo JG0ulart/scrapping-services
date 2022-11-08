@@ -1,2 +1,3 @@
 Script created for collect with webscrapping basic datas for learning purporse.
-I will change the readme.md after the project ending.
+This script works in 2 websites for collect datas.
+In first site he collect the minimum and maximum temperature of Arcos city. For the second site he collect the quote of american dollar to brazilian real.
